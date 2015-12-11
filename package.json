@@ -2,7 +2,7 @@
   "name": "Buffero",
   "version": "1.0.0",
   "description": "Share data with your neighbour in 1 click!",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/Stulikov/Buffero",
   "dependencies": {
-    "express": "^4.13.3"
+    "express": "^4.13.3",
+    "nedb": "^1.5.0",
+    "socket.io": "^1.3.7"
   }
 }
