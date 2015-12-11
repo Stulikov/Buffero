@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Stulikov/Buffero/issues"
   },
-  "homepage": "https://github.com/Stulikov/Buffero"
+  "homepage": "https://github.com/Stulikov/Buffero",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
 }
