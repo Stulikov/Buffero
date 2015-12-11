@@ -1,0 +1,19 @@
+{
+  "name": "Buffero",
+  "version": "1.0.0",
+  "description": "Share data with your neighbour in 1 click!",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Stulikov/Buffero.git"
+  },
+  "author": "Alexey Stulikov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Stulikov/Buffero/issues"
+  },
+  "homepage": "https://github.com/Stulikov/Buffero"
+}
